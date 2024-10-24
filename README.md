@@ -1,2 +1,7 @@
 # Music-Trend-Analysis-using-ML
 The Music Trends Analysis project aims to explore and predict trends in music and video content by analyzing data from YouTube and Spotify.
+By using datasets like the YouTube Dislikes Dataset by Nikolaiev (2021) and the Spotify and YouTube Dataset by Rastelli (2023), the project uncovers patterns related to content popularity, such as how attributes like acousticness, danceability, or dislike counts influence the overall success of a track or video. The goal is to gain insights into user preferences and the factors that drive popularity on both platforms.
+
+Key features of the project include comprehensive data preprocessing techniques to handle missing values and normalize the data for analysis. Through exploratory data analysis (EDA), visualizations of trends and relationships between different features are generated using tools like Seaborn and Matplotlib. The project applies Linear Regression to predict metrics like YouTube dislikes and Spotify track popularity based on multiple features, allowing for deeper insights into content success factors. Additionally, K-Means Clustering is used to categorize tracks and videos into groups based on their characteristics, helping to understand content segmentation. Performance evaluation of predictive models is done using metrics like Mean Squared Error (MSE) and R-squared, ensuring robust and accurate analysis.
+
+This project provides valuable insights into how content on platforms like YouTube and Spotify evolves and what factors contribute to making a track or video popular.
